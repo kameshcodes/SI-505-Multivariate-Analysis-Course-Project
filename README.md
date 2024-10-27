@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is part of the **SI-505: Multivariate Analysis** course taken by **Prof. Siuli Mukhopadhyay**. It focuses on exploring different multivariate techniques such as PCA (Principal Component Analysis), factor analysis, and clustering. It involves analyzing a dataset to extract insights using various dimensionality reduction methods and clustering algorithms. The notebook also covers model evaluation and visualization of the results.
+This project is part of the **SI-505: Multivariate Analysis** course taken by **Prof. Siuli Mukhopadhyay**. The dataset was of **bank-customers**. It focuses on exploring different multivariate techniques such as PCA (Principal Component Analysis), factor analysis, and clustering. It involves analyzing a dataset to extract insights using various dimensionality reduction methods and clustering algorithms. The notebook also covers model evaluation and visualization of the results.
 
 ## Table of Contents
 
